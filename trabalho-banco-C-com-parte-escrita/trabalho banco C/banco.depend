@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718250147 source:c:\users\user\documents\bucreta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
